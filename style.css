@@ -9,3 +9,19 @@ h1{
 header, figure{
   text-align:center;
 }
+a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+figcaption{
+  text-align: center;
+  font-size: 10px;
+}
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
+#details{
+  display: block;
+}
